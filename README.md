@@ -7,6 +7,7 @@ You may immediately play around with the notebook through Google Colaboratory. H
 - <a href="https://colab.research.google.com/github/Cyntwikip/Machine-Learning/blob/main/ml_python.ipynb">Machine Learning in Python</a>
 - <a href="https://colab.research.google.com/github/Cyntwikip/Machine-Learning/blob/main/ml_python_exercise.ipynb">Machine Learning in Python Exercise</a>
 - <a href="https://colab.research.google.com/github/Cyntwikip/Machine-Learning/blob/main/knn.ipynb">K Nearest Neighbors</a>
+- <a href="https://colab.research.google.com/github/Cyntwikip/Machine-Learning/blob/main/linear_regression.ipynb">Linear and Logistic Regression</a>
 - <a href="https://colab.research.google.com/github/Cyntwikip/Machine-Learning/blob/main/clustering.ipynb">Clustering</a>
 - <a href="https://colab.research.google.com/github/Cyntwikip/Machine-Learning/blob/main/outlier_detection.ipynb">Outlier Detection</a>
 
