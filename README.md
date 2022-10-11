@@ -10,6 +10,7 @@ You may immediately play around with the notebook through Google Colaboratory. H
 - <a href="https://colab.research.google.com/github/Cyntwikip/Machine-Learning/blob/main/linear_regression.ipynb">Linear and Logistic Regression</a>
 - <a href="https://colab.research.google.com/github/Cyntwikip/Machine-Learning/blob/main/linear_regression_homework.ipynb">Linear Regression Homework</a>
 - <a href="https://colab.research.google.com/github/Cyntwikip/Machine-Learning/blob/main/practical_ml.ipynb">Practical Machine Learning</a>
+- <a href="https://colab.research.google.com/github/Cyntwikip/Machine-Learning/blob/main/neural_network.ipynb">Neural Network</a>
 - <a href="https://colab.research.google.com/github/Cyntwikip/Machine-Learning/blob/main/clustering.ipynb">Clustering</a>
 - <a href="https://colab.research.google.com/github/Cyntwikip/Machine-Learning/blob/main/outlier_detection.ipynb">Outlier Detection</a>
 
