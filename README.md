@@ -6,6 +6,7 @@ You may immediately play around with the notebook through Google Colaboratory. H
 - <a href="https://colab.research.google.com/github/Cyntwikip/Machine-Learning/blob/main/kaggle_30_days_ml.ipynb">Kaggle's 30 days of Machine Learning</a>
 - <a href="https://colab.research.google.com/github/Cyntwikip/Machine-Learning/blob/main/ml_python.ipynb">Machine Learning in Python</a>
 - <a href="https://colab.research.google.com/github/Cyntwikip/Machine-Learning/blob/main/ml_python_exercise.ipynb">Machine Learning in Python Exercise</a>
+- <a href="https://colab.research.google.com/github/Cyntwikip/Machine-Learning/blob/main/python_ml_quiz.ipynb">Python ML Quiz</a>
 - <a href="https://colab.research.google.com/github/Cyntwikip/Machine-Learning/blob/main/knn.ipynb">K Nearest Neighbors</a>
 - <a href="https://colab.research.google.com/github/Cyntwikip/Machine-Learning/blob/main/linear_regression.ipynb">Linear and Logistic Regression</a>
 - <a href="https://colab.research.google.com/github/Cyntwikip/Machine-Learning/blob/main/linear_regression_homework.ipynb">Linear Regression Homework</a>
