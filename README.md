@@ -17,6 +17,8 @@ You may immediately play around with the notebook through Google Colaboratory. H
 - <a href="https://colab.research.google.com/github/Cyntwikip/Machine-Learning/blob/main/outlier_detection.ipynb">Outlier Detection</a>
 
 - <a href="https://colab.research.google.com/github/Cyntwikip/Machine-Learning/blob/main/random_forest.ipynb">Random Forest</a>
+
+- <a href="https://colab.research.google.com/github/Cyntwikip/Machine-Learning/blob/main/ensemble_models.ipynb">Ensemble Models</a>
 - <a href="https://colab.research.google.com/github/Cyntwikip/Machine-Learning/blob/main/explainability_interpretable_models.ipynb">Interpretable Models</a>
 - <a href="https://colab.research.google.com/github/Cyntwikip/Machine-Learning/blob/main/explainability_model_agnostic.ipynb">Model Agnostic Methods</a>
 
