@@ -22,5 +22,7 @@ You may immediately play around with the notebook through Google Colaboratory. H
 - <a href="https://colab.research.google.com/github/Cyntwikip/Machine-Learning/blob/main/explainability_interpretable_models.ipynb">Interpretable Models</a>
 - <a href="https://colab.research.google.com/github/Cyntwikip/Machine-Learning/blob/main/explainability_model_agnostic.ipynb">Model Agnostic Methods</a>
 
+- <a href="https://colab.research.google.com/github/Cyntwikip/Machine-Learning/blob/main/cnn.ipynb">Convolutional Neural Network</a>
+
 <br>
 <sup>for comments, corrections, suggestions, please email: <href>judemichaelteves@gmail.com</href> or <href>jude.teves@dlsu.edu.ph</href></sup>
