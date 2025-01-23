@@ -25,5 +25,7 @@ You may immediately play around with the notebook through Google Colaboratory. H
 - <a href="https://colab.research.google.com/github/Cyntwikip/Machine-Learning/blob/main/cnn.ipynb">Convolutional Neural Network</a>
 - <a href="https://colab.research.google.com/github/Cyntwikip/Machine-Learning/blob/main/transfer_learning.ipynb">Transfer Learning</a>
 
+- <a href="https://colab.research.google.com/github/Cyntwikip/Machine-Learning/blob/main/huggingface_intro.ipynb">Introduction to Hugging Face</a>
+
 <br>
 <sup>for comments, corrections, suggestions, please email: <href>judemichaelteves@gmail.com</href> or <href>jude.teves@dlsu.edu.ph</href></sup>
